@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/0075-sort-colors) |
@@ -15,6 +16,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
