@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -16,6 +17,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/0075-sort-colors) |
 ## Quicksort
 |  |
@@ -42,4 +44,12 @@
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/1732-find-the-highest-altitude) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/0049-group-anagrams) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
