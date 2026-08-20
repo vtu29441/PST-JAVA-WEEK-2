@@ -9,6 +9,7 @@
 | [0075-sort-colors](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0347-top-k-frequent-elements](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/0347-top-k-frequent-elements) |
+| [1470-shuffle-the-array](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/1470-shuffle-the-array) |
 | [1732-find-the-highest-altitude](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/1920-build-array-from-permutation) |
 ## Two Pointers
