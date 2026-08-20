@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1920-build-array-from-permutation](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/1920-build-array-from-permutation) |
@@ -26,9 +27,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/1920-build-array-from-permutation) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
