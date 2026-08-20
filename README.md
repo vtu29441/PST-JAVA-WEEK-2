@@ -7,6 +7,7 @@
 | [0053-maximum-subarray](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1732-find-the-highest-altitude](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/1920-build-array-from-permutation) |
 ## Two Pointers
 |  |
@@ -37,4 +38,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/vtu29441/PST-JAVA-WEEK-2/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
